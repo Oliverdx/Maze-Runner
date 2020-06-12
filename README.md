@@ -12,3 +12,6 @@ jump the next command avoinding runnning in circles, if find a wall or is a bloc
 
 ## Knowledge aqquired
 How to run a linear bot in Javascript using a recursive function
+
+## Plans to the future
+Start to use artificial intelligence concept to make the bot learn how to go to the treasure in the shortest path
